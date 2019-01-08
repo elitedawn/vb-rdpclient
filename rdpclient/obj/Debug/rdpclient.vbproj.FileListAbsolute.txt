@@ -1,0 +1,15 @@
+c:\users\r1d3r\documents\visual studio 2015\Projects\rdpclient\rdpclient\bin\Debug\rdpclient.exe
+c:\users\r1d3r\documents\visual studio 2015\Projects\rdpclient\rdpclient\bin\Debug\rdpclient.pdb
+c:\users\r1d3r\documents\visual studio 2015\Projects\rdpclient\rdpclient\bin\Debug\rdpclient.xml
+c:\users\r1d3r\documents\visual studio 2015\Projects\rdpclient\rdpclient\bin\Debug\Interop.MSTSCLib.dll
+c:\users\r1d3r\documents\visual studio 2015\Projects\rdpclient\rdpclient\bin\Debug\AxInterop.MSTSCLib.dll
+c:\users\r1d3r\documents\visual studio 2015\Projects\rdpclient\rdpclient\obj\Debug\rdpclient.vbprojResolveAssemblyReference.cache
+c:\users\r1d3r\documents\visual studio 2015\Projects\rdpclient\rdpclient\obj\Debug\Interop.MSTSCLib.dll
+c:\users\r1d3r\documents\visual studio 2015\Projects\rdpclient\rdpclient\obj\Debug\AxInterop.MSTSCLib.dll
+c:\users\r1d3r\documents\visual studio 2015\Projects\rdpclient\rdpclient\obj\Debug\rdpclient.vbproj.ResolveComReference.cache
+c:\users\r1d3r\documents\visual studio 2015\Projects\rdpclient\rdpclient\obj\Debug\rdpclient.Form1.resources
+c:\users\r1d3r\documents\visual studio 2015\Projects\rdpclient\rdpclient\obj\Debug\rdpclient.Resources.resources
+c:\users\r1d3r\documents\visual studio 2015\Projects\rdpclient\rdpclient\obj\Debug\rdpclient.vbproj.GenerateResource.Cache
+c:\users\r1d3r\documents\visual studio 2015\Projects\rdpclient\rdpclient\obj\Debug\rdpclient.exe
+c:\users\r1d3r\documents\visual studio 2015\Projects\rdpclient\rdpclient\obj\Debug\rdpclient.xml
+c:\users\r1d3r\documents\visual studio 2015\Projects\rdpclient\rdpclient\obj\Debug\rdpclient.pdb

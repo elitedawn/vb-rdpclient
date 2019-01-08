@@ -1,0 +1,21 @@
+C:\Users\R1D3R\Documents\Visual Studio 2015\Projects\rdpclient\rdpclient\obj\Release\Interop.MSTSCLib.dll
+C:\Users\R1D3R\Documents\Visual Studio 2015\Projects\rdpclient\rdpclient\obj\Release\AxInterop.MSTSCLib.dll
+C:\Users\R1D3R\Documents\Visual Studio 2015\Projects\rdpclient\rdpclient\obj\Release\rdpclient.vbproj.ResolveComReference.cache
+C:\Users\R1D3R\Documents\Visual Studio 2015\Projects\rdpclient\rdpclient\bin\Release\rdpclient.exe
+C:\Users\R1D3R\Documents\Visual Studio 2015\Projects\rdpclient\rdpclient\bin\Release\rdpclient.pdb
+C:\Users\R1D3R\Documents\Visual Studio 2015\Projects\rdpclient\rdpclient\bin\Release\rdpclient.xml
+C:\Users\R1D3R\Documents\Visual Studio 2015\Projects\rdpclient\rdpclient\bin\Release\Interop.MSTSCLib.dll
+C:\Users\R1D3R\Documents\Visual Studio 2015\Projects\rdpclient\rdpclient\bin\Release\AxInterop.MSTSCLib.dll
+C:\Users\R1D3R\Documents\Visual Studio 2015\Projects\rdpclient\rdpclient\obj\Release\rdpclient.vbprojResolveAssemblyReference.cache
+C:\Users\R1D3R\Documents\Visual Studio 2015\Projects\rdpclient\rdpclient\obj\Release\rdpclient.Form1.resources
+C:\Users\R1D3R\Documents\Visual Studio 2015\Projects\rdpclient\rdpclient\obj\Release\rdpclient.Resources.resources
+C:\Users\R1D3R\Documents\Visual Studio 2015\Projects\rdpclient\rdpclient\obj\Release\rdpclient.vbproj.GenerateResource.Cache
+C:\Users\R1D3R\Documents\Visual Studio 2015\Projects\rdpclient\rdpclient\obj\Release\rdpclient.exe
+C:\Users\R1D3R\Documents\Visual Studio 2015\Projects\rdpclient\rdpclient\obj\Release\rdpclient.xml
+C:\Users\R1D3R\Documents\Visual Studio 2015\Projects\rdpclient\rdpclient\obj\Release\rdpclient.pdb
+C:\Users\R1D3R\Documents\Visual Studio 2015\sa thesis\rdpclient\rdpclient\obj\Release\Interop.MSTSCLib.dll
+C:\Users\R1D3R\Documents\Visual Studio 2015\sa thesis\rdpclient\rdpclient\obj\Release\AxInterop.MSTSCLib.dll
+C:\Users\R1D3R\Documents\Visual Studio 2015\sa thesis\rdpclient\rdpclient\obj\Release\rdpclient.vbproj.ResolveComReference.cache
+C:\Users\R1D3R\Documents\Visual Studio 2015\sa thesis\rdpclient\rdpclient\obj\Release\rdpclient.exe
+C:\Users\R1D3R\Documents\Visual Studio 2015\sa thesis\rdpclient\rdpclient\obj\Release\rdpclient.xml
+C:\Users\R1D3R\Documents\Visual Studio 2015\sa thesis\rdpclient\rdpclient\obj\Release\rdpclient.pdb
